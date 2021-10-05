@@ -4,7 +4,7 @@ import { CommonModule } from '@angular/common';
 import { CollectionsRoutingModule } from './collections-routing.module';
 import { CollectionsHomeComponent } from './collections-home/collections-home.component';
 import { TableComponent } from './table/table.component';
-
+import { SharedModule } from '../shared/shared.module';
 
 @NgModule({
   declarations: [
@@ -13,7 +13,8 @@ import { TableComponent } from './table/table.component';
   ],
   imports: [
     CommonModule,
-    CollectionsRoutingModule
+    CollectionsRoutingModule,
+    SharedModule
   ],
   exports: []
 })
