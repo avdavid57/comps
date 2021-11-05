@@ -1,0 +1,41 @@
+[33mcommit b463d4cc7e729c086d35328acb099e1e2c09b2ee[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Adrian David <Adrian.David@paccar.com>
+Date:   Wed Nov 3 14:55:15 2021 -0700
+
+    Features up to 140. Lifecycle Hooks
+
+[33mcommit 13ec1e42cb72044a12e86673ac8818c2434e588d[m
+Author: Adrian David <Adrian.David@paccar.com>
+Date:   Wed Oct 27 14:58:21 2021 -0700
+
+    Added advanced component routing
+
+[33mcommit 238ddabfb22cb42f32f181c02b8beea75993ba08[m
+Author: Adrian David <Adrian.David@paccar.com>
+Date:   Tue Oct 5 14:07:08 2021 -0700
+
+    Lazy loading with modules
+
+[33mcommit 4fb210502c87455900bf4dc8caf9ee51b85033a4[m
+Author: Adrian David <Adrian.David@paccar.com>
+Date:   Thu Sep 30 08:36:57 2021 -0700
+
+    Added collections home component
+
+[33mcommit aececd8c2a0d911d492b17a2f4e25c261450dbc6[m
+Author: Adrian David <Adrian.David@paccar.com>
+Date:   Tue Aug 24 14:45:16 2021 -0700
+
+    Up to section 113
+
+[33mcommit a9bf1b0e499a5213a1abbafb4886afabf6eec908[m
+Author: Adrian David <Adrian.David@paccar.com>
+Date:   Tue Aug 17 14:26:49 2021 -0700
+
+    Section 103 updates
+
+[33mcommit d1dd3ec01da24f9e92710a6859ba9b02a91814f7[m
+Author: Adrian David <Adrian.David@paccar.com>
+Date:   Thu Aug 12 10:40:28 2021 -0700
+
+    initial commit
